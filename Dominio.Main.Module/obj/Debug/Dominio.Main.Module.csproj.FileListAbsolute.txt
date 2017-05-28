@@ -1,0 +1,9 @@
+C:\Users\Israel\Documents\ModeloVistaControlador4\ProyectoFinal\Dominio.Main.Module\bin\Debug\Dominio.Main.Module.dll
+C:\Users\Israel\Documents\ModeloVistaControlador4\ProyectoFinal\Dominio.Main.Module\bin\Debug\Dominio.Main.Module.pdb
+C:\Users\Israel\Documents\ModeloVistaControlador4\ProyectoFinal\Dominio.Main.Module\bin\Debug\Dominio.Core.Entities.dll
+C:\Users\Israel\Documents\ModeloVistaControlador4\ProyectoFinal\Dominio.Main.Module\bin\Debug\Infraestructura.Data.SQLServer.dll
+C:\Users\Israel\Documents\ModeloVistaControlador4\ProyectoFinal\Dominio.Main.Module\bin\Debug\Dominio.Core.Entities.pdb
+C:\Users\Israel\Documents\ModeloVistaControlador4\ProyectoFinal\Dominio.Main.Module\bin\Debug\Infraestructura.Data.SQLServer.pdb
+C:\Users\Israel\Documents\ModeloVistaControlador4\ProyectoFinal\Dominio.Main.Module\obj\Debug\Dominio.Main.Module.csprojResolveAssemblyReference.cache
+C:\Users\Israel\Documents\ModeloVistaControlador4\ProyectoFinal\Dominio.Main.Module\obj\Debug\Dominio.Main.Module.dll
+C:\Users\Israel\Documents\ModeloVistaControlador4\ProyectoFinal\Dominio.Main.Module\obj\Debug\Dominio.Main.Module.pdb

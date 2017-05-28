@@ -1,0 +1,55 @@
+﻿@model Dominio.Core.Entities.Curso
+
+@{
+    ViewBag.Title = "CrearCurso";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<table>
+    <tr>
+        <td>Hola @Request.Cookies["NombreUsuario"].Value.ToString()</td>
+        <td>@Html.ActionLink("Cerrar Sesión", "Validar", "Usuario")</td>
+    </tr>
+</table>
+
+<h2>Crear Nuevo Curso</h2>
+
+@using (Html.BeginForm())
+{
+    <fieldset>
+        <legend>CURSO</legend>
+        <div>
+            @Html.LabelFor(model => model.nombre)
+        </div>
+        <div>
+            @Html.EditorFor(model => model.nombre)
+            @Html.ValidationMessageFor(model => model.nombre)
+        </div>
+
+        <div>
+            @Html.LabelFor(model => model.correo)
+        </div>
+        <div>
+            @Html.EditorFor(model => model.correo)
+            @Html.ValidationMessageFor(model => model.correo)
+        </div>
+
+        <div>
+            @Html.LabelFor(model => model.credito)
+        </div>
+        <div>
+            @Html.EditorFor(model => model.credito)
+            @Html.ValidationMessageFor(model => model.credito)
+        </div>
+
+        <p><input type="submit" value="Crear" /></p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Volver a Listado", "Index")
+</div>
+
+@section Scripts{
+    @Scripts.Render("~/bundles/jqueryval")
+    }

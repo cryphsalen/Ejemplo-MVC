@@ -1,0 +1,7 @@
+C:\Users\Israel\Documents\ModeloVistaControlador4\ProyectoFinal\Infraestructura.Data.SQLServer\bin\Debug\Infraestructura.Data.SQLServer.dll
+C:\Users\Israel\Documents\ModeloVistaControlador4\ProyectoFinal\Infraestructura.Data.SQLServer\bin\Debug\Infraestructura.Data.SQLServer.pdb
+C:\Users\Israel\Documents\ModeloVistaControlador4\ProyectoFinal\Infraestructura.Data.SQLServer\bin\Debug\Dominio.Core.Entities.dll
+C:\Users\Israel\Documents\ModeloVistaControlador4\ProyectoFinal\Infraestructura.Data.SQLServer\bin\Debug\Dominio.Core.Entities.pdb
+C:\Users\Israel\Documents\ModeloVistaControlador4\ProyectoFinal\Infraestructura.Data.SQLServer\obj\Debug\Infraestructura.Data.SQLServer.csprojResolveAssemblyReference.cache
+C:\Users\Israel\Documents\ModeloVistaControlador4\ProyectoFinal\Infraestructura.Data.SQLServer\obj\Debug\Infraestructura.Data.SQLServer.dll
+C:\Users\Israel\Documents\ModeloVistaControlador4\ProyectoFinal\Infraestructura.Data.SQLServer\obj\Debug\Infraestructura.Data.SQLServer.pdb

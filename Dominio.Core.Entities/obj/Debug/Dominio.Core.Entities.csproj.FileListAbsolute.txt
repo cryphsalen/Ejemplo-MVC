@@ -1,0 +1,4 @@
+C:\Users\Israel\Documents\ModeloVistaControlador4\ProyectoFinal\Dominio.Core.Entities\bin\Debug\Dominio.Core.Entities.dll
+C:\Users\Israel\Documents\ModeloVistaControlador4\ProyectoFinal\Dominio.Core.Entities\bin\Debug\Dominio.Core.Entities.pdb
+C:\Users\Israel\Documents\ModeloVistaControlador4\ProyectoFinal\Dominio.Core.Entities\obj\Debug\Dominio.Core.Entities.dll
+C:\Users\Israel\Documents\ModeloVistaControlador4\ProyectoFinal\Dominio.Core.Entities\obj\Debug\Dominio.Core.Entities.pdb
